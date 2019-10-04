@@ -1,0 +1,20 @@
+﻿2019-05-24 23:53:59,153 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-24 23:57:13,390 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-24 23:57:55,286 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-24 23:57:55,345 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-24 23:57:55,351 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-24 23:57:55,419 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-24 23:57:55,446 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-24 23:57:55,455 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-24 23:57:55,459 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-24 23:57:55,463 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-24 23:57:55,467 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-24 23:57:55,472 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-24 23:57:55,476 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-24 23:57:55,480 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-24 23:57:55,483 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-24 23:57:55,487 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-24 23:57:55,491 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-24 23:57:55,495 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-24 23:57:55,499 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-24 23:57:55,557 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
