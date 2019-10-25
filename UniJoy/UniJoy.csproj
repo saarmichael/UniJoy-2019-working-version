@@ -45,6 +45,9 @@
       <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -107,6 +110,10 @@
     <ProjectReference Include="..\Trajectories\Trajectories.csproj">
       <Project>{b8b173f2-2fc2-4246-9a33-74f59d23d247}</Project>
       <Name>Trajectories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityVR\UnityVR.csproj">
+      <Project>{6eb398a2-dbc9-4b42-96e1-13a66f9c8b86}</Project>
+      <Name>UnityVR</Name>
     </ProjectReference>
     <ProjectReference Include="..\VaryingValuesGenerators\VaryingValuesGenerators.csproj">
       <Project>{cd66e1ec-4d34-4285-9982-ded44aa4f0f7}</Project>

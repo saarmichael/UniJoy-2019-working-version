@@ -1,0 +1,1214 @@
+﻿2019-05-26 19:28:26,474 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:28:47,015 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:28:47,042 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:28:47,045 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:28:47,086 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:28:47,091 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:28:47,099 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:28:47,105 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:28:47,109 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:28:47,112 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:28:47,117 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:28:47,121 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:28:47,124 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:28:47,129 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:28:47,133 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:28:47,137 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:28:47,141 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:28:47,144 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:28:47,251 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:34:43,538 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:38:24,516 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:38:37,262 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:38:40,269 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:38:40,276 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:38:40,342 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:38:40,349 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:38:40,361 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:38:40,368 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:38:40,375 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:38:40,381 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:38:40,388 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:38:40,395 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:38:40,401 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:38:40,407 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:38:40,414 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:38:40,420 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:38:40,427 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:38:40,434 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:38:40,485 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:38:54,164 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:39:19,193 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:39:19,221 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:39:19,227 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:39:19,261 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:39:19,268 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:39:19,278 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:39:19,285 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:39:19,290 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:39:19,296 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:39:19,302 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:39:19,308 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:39:19,314 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:39:19,319 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:39:19,325 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:39:19,331 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:39:19,337 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:39:19,342 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:39:19,435 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:40:08,571 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:41:18,249 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:41:18,278 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:41:18,284 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:41:18,319 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:18,326 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:18,337 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:18,343 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:18,349 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:18,356 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:18,362 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:18,368 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:18,374 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:18,380 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:18,386 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:18,392 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:18,399 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:18,405 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:18,492 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:41:38,510 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting forsubject to press start expired.
+2019-05-26 19:41:38,516 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:41:38,525 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:41:38,531 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:41:38,537 INFO [7] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:41:39,545 INFO [7] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:41:44,836 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 19:41:44,842 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:41:44,847 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:41:44,854 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:44,860 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:44,867 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:44,873 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:44,879 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:44,885 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:44,891 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:44,897 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:44,903 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:44,910 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:44,917 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:44,923 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:44,930 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:41:44,937 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:41:45,052 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:42:05,068 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting forsubject to press start expired.
+2019-05-26 19:42:05,071 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:42:05,076 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:42:05,082 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:42:05,087 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:42:06,093 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:42:11,386 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 19:42:11,394 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:42:11,400 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:42:11,407 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:42:11,412 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:42:11,418 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:42:11,424 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:42:11,431 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:42:11,442 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:42:11,449 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:42:11,458 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:42:11,465 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:42:11,472 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:42:11,478 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:42:11,485 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:42:20,614 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:45:10,732 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:45:54,885 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:46:19,320 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:46:19,350 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:46:19,357 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:46:19,392 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:19,399 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:19,410 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:19,416 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:19,423 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:19,429 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:19,435 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:19,441 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:19,447 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:19,453 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:19,459 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:19,465 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:19,471 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:19,477 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:19,566 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:46:20,371 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:46:20,377 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:46:21,382 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:46:21,385 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 19:46:21,392 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:46:21,398 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:46:21,404 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:46:21,410 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:46:22,417 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:46:26,409 INFO [6] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 19:46:27,709 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 19:46:27,715 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:46:27,720 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 19:46:27,728 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:27,734 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:27,740 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:27,745 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:27,751 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:27,757 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:27,763 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:27,769 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:27,775 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:27,781 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:27,787 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:27,793 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:27,799 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:27,805 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:27,925 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:46:29,506 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:46:29,512 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:46:30,517 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:46:30,522 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 19:46:30,528 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:46:30,532 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:46:30,538 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:46:30,543 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:46:31,549 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:46:35,543 INFO [9] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 19:46:36,843 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 19:46:36,857 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:36,863 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:36,870 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:36,877 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:36,883 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:36,889 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:36,895 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:36,901 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:36,907 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:36,913 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:36,919 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:36,924 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:46:36,930 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:46:36,936 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:50:41,845 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:51:01,192 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:51:01,220 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:51:01,227 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:51:01,264 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:01,271 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:01,282 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:01,289 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:01,295 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:01,301 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:01,307 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:01,313 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:01,318 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:01,324 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:01,330 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:01,336 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:01,342 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:01,348 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:01,435 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:51:02,198 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:51:02,201 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:51:03,207 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:51:03,210 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 19:51:03,216 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:51:03,222 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:51:03,228 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:51:03,234 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:51:04,243 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:51:08,233 INFO [9] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 19:51:09,533 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 19:51:09,538 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:51:09,544 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 19:51:09,554 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:09,560 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:09,567 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:09,573 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:09,583 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:09,589 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:09,595 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:09,602 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:09,608 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:09,614 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:09,624 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:09,631 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:09,639 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:09,645 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:09,749 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:51:10,541 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:51:10,547 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:51:11,553 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:51:11,558 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 19:51:11,564 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:51:11,569 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:51:11,574 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:51:11,579 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:51:12,585 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:51:16,579 INFO [6] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 19:51:17,879 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 19:51:17,892 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:17,898 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:17,904 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:17,910 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:17,917 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:17,923 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:17,929 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:17,935 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:17,941 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:17,946 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:17,952 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:17,958 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:51:17,964 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:51:17,970 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:53:24,242 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:54:03,003 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:54:39,887 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:55:04,800 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:55:04,828 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:55:04,836 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:55:04,880 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:04,888 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:04,899 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:04,905 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:04,911 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:04,917 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:04,923 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:04,929 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:04,934 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:04,940 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:04,946 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:04,952 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:04,958 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:04,964 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:05,046 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:55:05,732 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:55:05,735 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:55:06,741 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:55:06,744 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 19:55:06,751 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:55:06,757 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:55:06,762 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:55:06,768 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:55:07,777 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:55:11,767 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 19:55:13,067 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 19:55:13,073 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:55:13,078 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 19:55:13,087 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:13,093 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:13,098 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:13,105 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:13,111 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:13,118 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:13,124 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:13,130 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:13,136 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:13,143 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:13,149 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:13,155 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:13,162 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:13,169 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:13,284 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:55:14,175 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:55:14,180 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:55:15,185 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:55:15,191 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 19:55:15,196 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:55:15,201 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:55:15,206 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:55:15,211 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:55:16,217 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:55:20,211 INFO [8] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 19:55:21,511 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 19:55:21,524 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:21,530 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:21,535 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:21,541 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:21,547 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:21,554 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:21,560 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:21,566 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:21,572 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:21,578 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:21,585 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:21,590 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:55:21,597 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:55:21,603 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:56:57,387 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:57:04,489 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:57:17,087 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:57:19,983 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:57:19,990 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:57:20,055 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:57:20,062 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:57:20,072 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:57:20,079 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:57:20,085 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:57:20,091 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:57:20,097 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:57:20,103 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:57:20,109 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:57:20,115 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:57:20,122 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:57:20,128 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:57:20,134 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:57:20,140 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:57:20,220 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:57:30,696 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:57:30,699 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:57:31,705 INFO [5] UniJoy.ControlLoop.RewardCenterStage - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:57:31,708 INFO [5] UniJoy.ControlLoop.RewardCenterStage - RewardCenterStage ended.
+2019-05-26 19:57:35,119 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:57:35,202 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:57:37,959 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:57:37,965 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:57:38,990 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:58:19,276 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 19:58:42,561 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 19:58:42,589 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:58:42,596 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 19:58:42,633 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:42,645 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:42,651 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:42,657 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:42,663 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:42,668 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:42,675 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:42,681 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:42,687 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:42,693 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:42,699 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:42,705 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:42,711 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:42,718 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:42,804 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:58:43,541 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 19:58:43,544 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 19:58:44,549 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 19:58:44,552 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 19:58:44,559 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 19:58:44,565 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 19:58:44,571 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 19:58:44,577 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 19:58:45,587 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 19:58:49,576 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 19:58:50,876 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 19:58:50,881 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 19:58:50,886 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 19:58:50,894 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:50,900 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:50,906 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:50,912 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:50,918 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:50,924 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:50,929 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:50,935 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:50,940 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:50,946 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:50,952 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:50,958 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:50,964 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 19:58:50,971 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 19:58:51,091 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 19:59:57,806 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:01:08,812 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:01:33,055 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 20:01:33,086 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:01:33,093 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 20:01:33,129 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:33,141 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:33,148 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:33,154 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:33,161 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:33,167 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:33,174 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:33,180 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:33,187 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:33,194 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:33,200 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:33,207 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:33,213 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:33,220 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:33,302 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:01:34,979 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:01:34,985 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:01:35,990 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:01:35,993 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:01:36,000 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:01:36,006 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:01:36,012 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:01:36,018 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:01:37,024 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:01:41,017 INFO [8] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 20:01:42,317 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 20:01:42,323 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:01:42,328 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 20:01:42,337 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:42,344 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:42,351 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:42,358 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:42,365 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:42,371 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:42,378 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:42,385 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:42,391 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:42,398 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:42,404 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:42,411 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:42,417 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:42,424 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:42,535 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:01:43,657 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:01:43,662 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:01:44,667 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:01:44,673 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:01:44,678 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:01:44,683 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:01:44,688 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:01:44,693 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:01:45,699 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:01:49,693 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 20:01:50,993 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 20:01:51,005 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:51,012 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:51,018 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:51,025 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:51,032 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:51,039 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:51,046 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:51,053 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:51,059 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:51,066 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:51,074 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:51,080 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:01:51,087 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:01:51,095 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:23,888 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:02:45,904 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 20:02:48,263 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:02:48,267 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 20:02:48,337 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:02:48,343 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:48,355 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:02:48,361 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:48,367 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:02:48,374 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:48,380 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:02:48,385 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:48,391 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:02:48,397 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:48,403 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:02:48,409 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:48,415 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:02:48,421 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:02:48,476 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:02:51,258 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:02:51,264 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:02:52,269 INFO [5] UniJoy.ControlLoop.RewardCenterStage - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:02:52,273 INFO [5] UniJoy.ControlLoop.RewardCenterStage - RewardCenterStage ended.
+2019-05-26 20:03:56,662 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:03:56,668 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:04:00,004 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:04:00,010 INFO [11] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:04:01,026 INFO [11] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:04:08,246 INFO [10] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 20:04:09,545 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = True.
+2019-05-26 20:04:13,618 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:06:26,293 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:07:46,660 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:08:23,447 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:09:00,733 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 20:09:00,762 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:09:00,768 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 20:09:00,805 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:00,817 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:00,824 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:00,831 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:00,837 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:00,843 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:00,849 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:00,855 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:00,861 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:00,867 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:00,873 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:00,879 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:00,885 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:00,891 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:00,977 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:09:01,721 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:09:01,724 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:09:02,731 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:09:02,734 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:09:02,741 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:09:02,748 INFO [8] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:09:02,755 INFO [8] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:09:06,970 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = True.
+2019-05-26 20:09:06,977 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:09:06,983 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage begin with AutoReward  = False.
+2019-05-26 20:09:06,988 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage ended.
+2019-05-26 20:09:06,993 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:09:06,999 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:09:07,006 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:09:07,012 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:09:07,287 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:09:08,293 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:09:12,320 INFO [9] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 20:09:13,318 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:09:13,323 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:09:13,328 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 20:09:13,336 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:13,342 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:13,348 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:13,355 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:13,361 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:13,367 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:13,373 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:13,379 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:13,385 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:13,391 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:13,397 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:13,403 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:13,409 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:13,415 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:13,534 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:09:16,822 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:09:16,827 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:09:17,833 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:09:17,836 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:09:17,842 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:09:17,875 INFO [7] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:09:17,880 INFO [7] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:09:20,007 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = True.
+2019-05-26 20:09:20,010 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:09:20,016 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage begin with AutoReward  = False.
+2019-05-26 20:09:20,021 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage ended.
+2019-05-26 20:09:20,026 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:09:20,031 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:09:20,035 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:09:20,040 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:09:20,053 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:09:21,059 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:09:25,065 INFO [9] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 20:09:26,345 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:09:26,350 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:09:26,356 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #3
+2019-05-26 20:09:26,364 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:26,370 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:26,376 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:26,382 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:26,387 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:26,393 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:26,400 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:26,406 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:26,413 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:26,418 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:26,425 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:26,431 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:26,437 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:26,443 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:26,561 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:09:30,379 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:09:30,382 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:09:31,387 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:09:31,390 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:09:31,397 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:09:31,410 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:09:31,415 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:09:34,368 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = True.
+2019-05-26 20:09:34,374 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:09:34,379 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage begin with AutoReward  = False.
+2019-05-26 20:09:34,384 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage ended.
+2019-05-26 20:09:34,389 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:09:34,394 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:09:34,398 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:09:34,403 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:09:34,444 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:09:35,451 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:09:39,463 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 3 to the result file.
+2019-05-26 20:09:40,708 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:09:40,721 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:40,727 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:40,733 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:40,740 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:40,747 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:40,753 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:40,760 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:40,766 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:40,772 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:40,779 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:40,785 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:40,791 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:09:40,798 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:09:40,804 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:10:38,873 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:11:03,575 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 20:11:03,603 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:11:03,609 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 20:11:03,648 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:03,655 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:03,665 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:03,671 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:03,678 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:03,684 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:03,692 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:03,698 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:03,704 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:03,710 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:03,715 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:03,720 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:03,726 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:03,733 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:03,817 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:11:04,453 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:11:04,456 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:11:05,461 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:11:05,464 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:11:05,471 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:11:05,478 INFO [8] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:11:05,483 INFO [8] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:11:07,379 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Left; Correct = True.
+2019-05-26 20:11:07,384 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:11:07,393 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage begin with AutoReward  = False.
+2019-05-26 20:11:07,398 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage ended.
+2019-05-26 20:11:07,403 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:11:07,408 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:11:07,413 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:11:07,418 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:11:07,423 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:11:08,429 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:11:12,422 INFO [9] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 20:11:13,722 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:11:13,727 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:11:13,733 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 20:11:13,741 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:13,747 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:13,753 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:13,760 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:13,766 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:13,772 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:13,777 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:13,783 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:13,789 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:13,795 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:13,802 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:13,808 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:13,813 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:13,819 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:13,939 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:11:14,625 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:11:14,629 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:11:15,634 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:11:15,637 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:11:15,643 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:11:15,648 INFO [9] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:11:15,653 INFO [9] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:11:16,420 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = False.
+2019-05-26 20:11:16,425 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:11:16,430 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:11:16,435 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:11:16,439 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:11:16,444 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:11:16,449 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:11:17,454 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:11:21,449 INFO [8] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 20:11:22,749 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:11:22,754 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:11:22,759 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #3
+2019-05-26 20:11:22,767 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:22,773 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:22,778 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:22,784 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:22,790 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:22,795 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:22,801 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:22,808 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:22,814 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:22,820 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:22,826 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:22,833 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:22,839 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:22,845 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:22,964 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:11:32,806 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:11:32,809 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:11:33,814 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:11:33,819 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:11:33,825 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:11:33,829 INFO [10] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:11:33,834 INFO [10] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:11:35,499 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = False.
+2019-05-26 20:11:35,504 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:11:35,509 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:11:35,514 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:11:35,519 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:11:35,524 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:11:35,528 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:11:36,534 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:11:40,528 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 3 to the result file.
+2019-05-26 20:11:41,828 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:11:41,841 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:41,847 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:41,854 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:41,861 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:41,867 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:41,873 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:41,879 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:41,885 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:41,891 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:41,897 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:41,902 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:41,908 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:11:41,913 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:11:41,919 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:12:38,997 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:13:13,730 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 20:13:13,758 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:13:13,765 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 20:13:13,805 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:13,818 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:13,824 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:13,830 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:13,836 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:13,843 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:13,849 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:13,855 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:13,862 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:13,868 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:13,874 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:13,880 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:13,886 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:13,892 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:13,973 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:13:14,579 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:13:14,582 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:13:15,588 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:13:15,591 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:13:15,598 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:13:15,605 INFO [7] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:13:15,612 INFO [7] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:13:17,174 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = False.
+2019-05-26 20:13:17,210 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:13:17,217 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:13:17,223 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:13:17,228 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:13:17,234 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:13:17,240 INFO [7] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:13:18,245 INFO [7] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:13:22,239 INFO [8] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 20:13:23,539 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:13:23,544 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:13:23,549 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 20:13:23,558 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:23,564 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:23,569 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:23,576 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:23,582 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:23,588 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:23,594 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:23,600 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:23,605 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:23,611 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:23,618 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:23,623 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:23,629 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:23,635 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:23,754 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:13:24,270 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:13:24,275 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:13:25,280 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:13:25,283 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:13:25,288 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:13:25,293 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:13:25,298 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:13:26,051 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Left; Correct = True.
+2019-05-26 20:13:26,054 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:13:26,061 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage begin with AutoReward  = False.
+2019-05-26 20:13:26,066 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage ended.
+2019-05-26 20:13:26,071 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:13:26,076 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:13:26,081 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:13:26,086 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:13:26,090 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:13:27,095 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:13:31,090 INFO [9] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 20:13:32,390 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:13:32,396 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:13:32,401 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #3
+2019-05-26 20:13:32,409 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:32,415 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:32,421 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:32,426 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:32,433 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:32,439 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:32,445 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:32,451 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:32,457 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:32,462 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:32,469 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:32,475 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:32,482 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:32,488 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:32,606 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:13:33,097 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:13:33,102 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:13:34,108 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:13:34,114 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:13:34,119 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:13:34,127 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:13:34,133 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:13:34,796 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = False.
+2019-05-26 20:13:34,803 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:13:34,809 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:13:34,815 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:13:34,819 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:13:34,824 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:13:34,829 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:13:35,835 INFO [8] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:13:39,829 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 3 to the result file.
+2019-05-26 20:13:41,129 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:13:41,134 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:13:41,140 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #4
+2019-05-26 20:13:41,147 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:41,154 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:41,160 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:41,166 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:41,172 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:41,178 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:41,184 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:41,190 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:41,197 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:41,203 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:41,210 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:41,216 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:41,223 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:41,229 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:41,345 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:13:42,187 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:13:42,192 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:13:43,198 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:13:43,203 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:13:43,208 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:13:43,213 INFO [11] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:13:43,218 INFO [11] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:13:44,489 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Left; Correct = False.
+2019-05-26 20:13:44,495 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:13:44,500 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:13:44,506 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:13:44,511 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:13:44,516 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:13:44,521 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:13:45,528 INFO [6] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:13:49,521 INFO [6] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 4 to the result file.
+2019-05-26 20:13:50,821 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:13:50,826 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:13:50,832 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #5
+2019-05-26 20:13:50,840 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:50,846 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:50,852 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:50,859 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:50,865 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:50,871 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:50,878 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:50,884 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:50,890 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:50,896 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:50,902 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:50,908 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:50,914 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:13:50,920 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:13:51,037 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:13:52,472 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:13:52,477 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:13:53,483 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:13:53,489 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:13:53,494 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:13:53,499 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:13:53,504 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:13:54,168 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = True.
+2019-05-26 20:13:54,172 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:13:54,178 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage begin with AutoReward  = False.
+2019-05-26 20:13:54,184 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage ended.
+2019-05-26 20:13:54,189 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:13:54,194 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:13:54,199 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:13:54,204 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:13:54,209 INFO [11] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:13:55,215 INFO [11] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:13:59,209 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 5 to the result file.
+2019-05-26 20:14:00,509 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:14:00,514 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:14:00,519 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #6
+2019-05-26 20:14:00,528 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:00,534 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:00,539 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:00,548 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:00,554 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:00,560 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:00,566 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:00,573 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:00,579 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:00,585 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:00,592 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:00,598 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:00,604 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:00,610 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:00,725 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:14:01,372 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:14:01,377 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:14:02,382 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:14:02,387 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:14:02,393 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:14:02,398 INFO [10] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:14:02,404 INFO [10] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:14:03,066 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = True.
+2019-05-26 20:14:03,073 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:14:03,079 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage begin with AutoReward  = False.
+2019-05-26 20:14:03,086 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage ended.
+2019-05-26 20:14:03,090 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:14:03,095 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:14:03,099 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:14:03,104 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:14:03,108 INFO [11] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:14:04,113 INFO [11] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:14:08,108 INFO [9] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 6 to the result file.
+2019-05-26 20:14:09,408 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:14:09,414 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:14:09,419 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #7
+2019-05-26 20:14:09,426 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:09,433 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:09,439 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:09,445 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:09,451 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:09,457 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:09,463 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:09,469 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:09,475 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:09,481 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:09,487 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:09,494 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:09,500 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:09,506 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:09,624 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:14:10,072 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:14:10,077 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:14:11,082 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:14:11,087 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:14:11,092 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:14:11,097 INFO [8] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:14:11,103 INFO [8] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:14:11,705 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Left; Correct = True.
+2019-05-26 20:14:11,710 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:14:11,716 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage begin with AutoReward  = False.
+2019-05-26 20:14:11,721 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage ended.
+2019-05-26 20:14:11,725 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:14:11,730 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:14:11,735 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:14:11,739 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:14:11,744 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:14:12,750 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:14:16,744 INFO [10] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 7 to the result file.
+2019-05-26 20:14:18,044 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:14:18,049 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:14:18,054 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #8
+2019-05-26 20:14:18,061 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:18,067 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:18,073 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:18,079 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:18,086 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:18,092 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:18,098 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:18,104 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:18,110 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:18,117 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:18,123 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:18,129 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:18,135 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:18,141 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:18,259 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:14:19,353 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:14:19,358 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:14:20,363 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:14:20,366 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:14:20,371 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:14:20,375 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:14:20,380 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:14:20,986 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Left; Correct = True.
+2019-05-26 20:14:20,989 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:14:20,994 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage begin with AutoReward  = False.
+2019-05-26 20:14:21,000 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage ended.
+2019-05-26 20:14:21,006 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:14:21,011 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:14:21,016 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:14:21,021 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:14:21,026 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:14:22,031 INFO [10] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:14:26,026 INFO [6] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 8 to the result file.
+2019-05-26 20:14:27,326 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:14:27,655 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:27,662 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:27,668 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:27,675 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:27,681 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:27,687 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:27,694 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:27,700 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:27,706 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:27,712 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:27,718 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:27,724 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:14:27,730 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:14:27,736 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:24:28,335 INFO [1] UniJoy.GuiInterface..ctor - Starting program...
+2019-05-26 20:25:03,005 INFO [5] UniJoy.ControlLoop.MainControlLoop - Main ControlLoop begin.
+2019-05-26 20:25:03,032 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:25:03,038 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #1
+2019-05-26 20:25:03,078 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:03,090 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:03,096 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:03,103 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:03,109 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:03,114 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:03,120 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:03,125 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:03,130 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:03,136 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:03,141 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:03,146 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:03,152 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:03,157 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:03,247 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:25:06,052 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:25:06,058 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:25:07,063 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:25:07,066 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:25:07,073 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:25:07,079 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:25:07,086 INFO [6] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:25:08,138 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = True.
+2019-05-26 20:25:08,141 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:25:08,147 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage begin with AutoReward  = False.
+2019-05-26 20:25:08,151 INFO [5] UniJoy.ControlLoop.RewardRightStage - RewardRightStage ended.
+2019-05-26 20:25:08,156 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:25:08,161 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:25:08,166 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:25:08,170 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:25:08,175 INFO [7] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:25:09,181 INFO [7] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:25:13,176 INFO [6] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 1 to the result file.
+2019-05-26 20:25:14,475 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:25:14,480 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:25:14,485 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #2
+2019-05-26 20:25:14,492 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:14,497 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:14,503 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:14,508 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:14,514 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:14,519 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:14,524 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:14,530 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:14,535 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:14,542 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:14,547 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:14,553 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:14,559 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:14,564 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:14,689 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:25:15,246 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:25:15,252 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:25:16,256 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:25:16,262 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:25:16,268 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:25:16,272 INFO [9] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:25:16,277 INFO [9] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:25:16,994 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Left; Correct = True.
+2019-05-26 20:25:17,000 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:25:17,006 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage begin with AutoReward  = False.
+2019-05-26 20:25:17,011 INFO [5] UniJoy.ControlLoop.RewardLeftStage - RewardLeftStage ended.
+2019-05-26 20:25:17,016 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:25:17,020 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:25:17,025 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:25:17,029 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:25:17,033 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:25:18,039 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:25:22,033 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 2 to the result file.
+2019-05-26 20:25:23,333 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:25:23,338 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:25:23,343 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #3
+2019-05-26 20:25:23,350 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:23,356 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:23,361 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:23,367 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:23,373 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:23,379 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:23,385 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:23,390 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:23,396 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:23,402 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:23,407 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:23,413 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:23,418 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:23,424 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:23,547 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:25:43,562 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:25:43,565 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:25:43,571 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:25:43,576 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:25:44,582 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:25:49,876 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:25:49,881 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:25:49,886 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #3
+2019-05-26 20:25:49,893 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:49,900 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:49,907 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:49,913 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:49,921 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:49,928 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:49,935 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:49,942 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:49,948 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:49,954 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:49,960 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:49,966 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:49,972 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:25:49,977 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:25:50,091 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.
+2019-05-26 20:25:53,080 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Moving the robot with duration time and head center stability check stage is begin.
+2019-05-26 20:25:53,084 INFO [5] UniJoy.ControlLoop.MovingTheRobotDurationWithHeadCenterStabilityStage - Send Executing robot trajectory data start command
+2019-05-26 20:25:54,089 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage begin with AutoReward  = False.
+2019-05-26 20:25:54,092 INFO [5] UniJoy.ControlLoop.MainControlLoop - RewardCenterStage ended.
+2019-05-26 20:25:54,097 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage begin.
+2019-05-26 20:25:54,102 INFO [9] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer begin. EnableCueSoundInBothSide = False;EnableCueSoundCorrectSideFalse.
+2019-05-26 20:25:54,108 INFO [9] UniJoy.ControlLoop.CueSoundPlayer - CueSoundPlayer ended.
+2019-05-26 20:25:55,086 INFO [5] UniJoy.ControlLoop.ResponseTimeStage - ResponseTimeStage ended. RatDecison = RatDecison.Right; Correct = False.
+2019-05-26 20:25:55,089 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage begin. AutoReward = False; SecondChance =False.
+2019-05-26 20:25:55,095 INFO [5] UniJoy.ControlLoop.SecondRewardStage - SecondRewardStage ended.
+2019-05-26 20:25:55,100 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage begin.
+2019-05-26 20:25:55,104 INFO [5] UniJoy.ControlLoop.PostTrialStage - Creating backward traj.
+2019-05-26 20:25:55,109 INFO [5] UniJoy.ControlLoop.PostTrialStage - Finish creating backward traj.
+2019-05-26 20:25:55,114 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward started.
+2019-05-26 20:25:56,121 INFO [9] UniJoy.ControlLoop+<>c__DisplayClass169_0.<PostTrialStage>b__2 - Backward ended.
+2019-05-26 20:26:00,114 INFO [7] UniJoy.ControlLoop.<PostTrialStage>b__169_1 - Saving trial# 3 to the result file.
+2019-05-26 20:26:01,414 INFO [5] UniJoy.ControlLoop.PostTrialStage - PostTrialStage ended. TrialSucceed = False.
+2019-05-26 20:26:01,419 INFO [5] UniJoy.ControlLoop.PreTrialStage - Pre trial stage begin.
+2019-05-26 20:26:01,424 INFO [5] UniJoy.ControlLoop.ResetVariables - Initialization Stage of trial #4
+2019-05-26 20:26:01,431 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:26:01,438 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:26:01,444 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:26:01,450 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:26:01,457 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:26:01,462 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:26:01,468 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:26:01,474 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:26:01,479 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:26:01,485 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:26:01,490 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:26:01,496 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:26:01,501 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - Start updating details list view
+2019-05-26 20:26:01,506 INFO [1] UniJoy.GuiInterface.ChangeGlobalExperimentDetailsListView - End updating details list view
+2019-05-26 20:26:01,629 INFO [5] UniJoy.ControlLoop.WaitForStartButtonToBePressed - Waiting for start button to be pressed.

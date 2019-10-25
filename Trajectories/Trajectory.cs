@@ -84,6 +84,17 @@ namespace Trajectories
         {
         }
 
+        //Maayan edit - adding another constructor to be used for sending a trajectory to the VR
+        public Trajectory(Vector<double> x, Vector<double> y, Vector<double> z, Vector<double> rx, Vector<double> ry, Vector<double> rz)
+        {
+            X = x;
+            Y = y;
+            Z = z;
+            RX = rx;
+            RY = ry;
+            RZ = rz;
+        }
+
         public void InsertOriginPlace(bool forward = true)
         {
 
