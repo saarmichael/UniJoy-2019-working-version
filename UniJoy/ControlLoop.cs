@@ -14,6 +14,8 @@ using log4net;
 using System.Windows.Forms.DataVisualization.Charting;
 using System.Threading;
 using MathNet.Numerics.Distributions;
+using UnityVR;
+using Newtonsoft.Json;
 
 namespace UniJoy
 {
@@ -405,7 +407,7 @@ namespace UniJoy
         /// <param name="mainGuiInterfaceControlsDictionary">The name of each main gui needed control and it's reference.</param>
         /// <param name="logger">The program logger for logging into log file.</param>
         /// </summary>
-        public ControlLoop(Dictionary<string, Delegate> ctrlDelegatesDic, 
+        public ControlLoop(Dictionary<string, Delegate> ctrlDelegatesDic,
             Dictionary<string, Control> mainGuiInterfaceControlsDictionary, ILog logger)
         {
             _trajectoryCreatorHandler = new TrajectoryCreatorHandler();
@@ -532,7 +534,7 @@ namespace UniJoy
             //_motomanController.MotomanProtocolFileCreator.Frequency = _frequency;
 
             //create a new results file for the new experiment.
-            _savedExperimentDataMaker.CreateControlNewFile(RatName);
+            _savedExperimentDataMaker.CreateControlNewFile(ProtocolFullName);
 
             //clear and initialize the psyco online graph.
             _onlinePsychGraphMaker.Clear();
@@ -799,10 +801,10 @@ namespace UniJoy
             _trialEventRealTiming.Add("TrialBegin", _controlLoopTrialTimer.ElapsedMilliseconds);
 
             //TODO:DELETE
-           /* Task sendDataToRobotTask = new Task(() =>
-            {
-                SendDataToRobots();
-            });*/
+            /* Task sendDataToRobotTask = new Task(() =>
+             {
+                 SendDataToRobots();
+             });*/
 
             //TODO:DELETE
             /*Task SendDataToLedControllersTask = new Task(() =>
@@ -950,7 +952,7 @@ namespace UniJoy
                     _totalChoices++;
 
                     //update the current rat decision state.
-                    Console.Beep(10000, 100);
+                    //Console.Beep(10000, 100);
                     _currentRatDecision = RatDecison.Left;
 
                     //add the response real time to the real times dictionary.
@@ -1015,7 +1017,7 @@ namespace UniJoy
 
                     //add the response real time to the real times dictionary.
                     _trialEventRealTiming.Add("RatDecision", _controlLoopTrialTimer.ElapsedMilliseconds);
-                    Console.Beep(10000,100);
+                    //Console.Beep(10000,100);
 
                     //TODO: Do I need this?
                     //write the event that te rat enter it's head to the right to the AlphaOmega.
@@ -1189,10 +1191,10 @@ namespace UniJoy
                     //open the center reward for the rat to be rewarded.
                     //after the reward duration time and than close it.
                     _logger.Info("Opening the water tupple");
-                    
+
                     //TODO: Do I need this?
                     //_rewardController.WriteSingleSamplePort(true, (byte)position);
-                    
+
                     //send the alpha omega that a reward is given.
                     SendAlphaOmegaRewardEvent(position);
 
@@ -1451,12 +1453,12 @@ namespace UniJoy
                     //SendPosition(currentTrialTrajectory.Moog(i).X , currentTrialTrajectory.Moog(i).Y , currentTrialTrajectory.Moog(i).Z)
                     double MOTION_BASE_CENTER = -0.22077500;
                     double surge = _currentTrialTrajectories.Item1[i].X;
-                    double  lateral = _currentTrialTrajectories.Item1[i].Y;
-                    double heave = _currentTrialTrajectories.Item1[i].Z+ MOTION_BASE_CENTER;
+                    double lateral = _currentTrialTrajectories.Item1[i].Y;
+                    double heave = _currentTrialTrajectories.Item1[i].Z + MOTION_BASE_CENTER;
                     double rx = _currentTrialTrajectories.Item1[i].RX;
                     double ry = _currentTrialTrajectories.Item1[i].RY;
                     double rz = _currentTrialTrajectories.Item1[i].RZ;
-                    GuiInterface.SendPosition(surge/100.0, heave , lateral/100.0, rx, ry, rz);
+                    GuiInterface.SendPosition(surge / 100.0, heave, lateral / 100.0, rx, ry, rz);
                 }
             });
 
@@ -1491,6 +1493,14 @@ namespace UniJoy
                         Position++;
                     }
                 );*/
+                Task.Run(() =>
+                {
+                    //---data to send to the unity program (server)---
+                    string msgToSend = "Space";
+                    string jsonMsgToSend = JsonConvert.SerializeObject(msgToSend.ToArray());
+                    TCPSender.SendString(jsonMsgToSend);
+                    TCPSender.SendMovement(_currentTrialTrajectories.Item1);
+                });
             }
 
             //TODO:DELETE ALL BLOCK
@@ -1543,7 +1553,7 @@ namespace UniJoy
                 _robotMotionTask.Wait();
             }
             //TODO: ADD THE SAME WAIT FOR THE VISUAL
-            
+
             //TODO:DELETE
             //also send the AlphaOmega that motion forward ends.
             //TODO: Do I need this?
@@ -1709,7 +1719,7 @@ namespace UniJoy
 
                 _logger.Info("Creating backward traj.");
                 //TODO: Do I need this? yes
-                Tuple<Trajectory, Trajectory>  returnTrajectory = _trajectoryCreatorHandler.CreateTrajectory(_currentVaryingTrialIndex, true);
+                Tuple<Trajectory, Trajectory> returnTrajectory = _trajectoryCreatorHandler.CreateTrajectory(_currentVaryingTrialIndex, true);
                 _logger.Info("Finish creating backward traj.");
 
                 moveRobotHomePositionTask = Task.Factory.StartNew(() =>
@@ -1722,8 +1732,8 @@ namespace UniJoy
                     {
                         //SendPosition(currentTrialTrajectory.Moog(i).X , currentTrialTrajectory.Moog(i).Y , currentTrialTrajectory.Moog(i).Z)
                         double MOTION_BASE_CENTER = -0.22077500;
-                        int size = _currentTrialTrajectories.Item1.X.Count-1;
-                        double surge = _currentTrialTrajectories.Item1[size].X +  returnTrajectory.Item1[i].X;
+                        int size = _currentTrialTrajectories.Item1.X.Count - 1;
+                        double surge = _currentTrialTrajectories.Item1[size].X + returnTrajectory.Item1[i].X;
                         double lateral = _currentTrialTrajectories.Item1[size].Y + returnTrajectory.Item1[i].Y;
                         double heave = returnTrajectory.Item1[i].Z + MOTION_BASE_CENTER;
                         double rx = returnTrajectory.Item1[i].RX;
@@ -1753,7 +1763,7 @@ namespace UniJoy
                 //_varyingIndexSelector.ResetTrialStatus(_currentVaryingTrialIndex);
                 trialSucceed = false;
 
-            //save the dat into the result file only if the trial is within success trials (that have any stimulus)
+            //save the data into the result file only if the trial is within success trials (that have any stimulus)
             if (!_currentRatDecision.Equals(RatDecison.NoEntryToResponseStage))
             {
                 Task.Run(() =>
@@ -1828,14 +1838,14 @@ namespace UniJoy
                 case 3://vistibular and visual both.
                 case 4://vistibular and visual both with delta+ for visual.
                        //TODO: Do I need this?
-                /*case 5://vistibular and visual both with delta+ for vistibular.
-                    ledsDataRight = new LEDsData((byte)LEDBrightness, (byte)(LEDcolorRed), (byte)(LEDcolorGreen), (byte)(LEDcolorBlue), _ledSelectorRight.FillWithBinaryRandomCombination(PercentageOfTurnedOnLeds, coherenceRightStrip, flickerRight));
-                    _ledControllerRight.LEDsDataCommand = ledsDataRight;
-                    _ledControllerRight.SendData();
-                    ledsDataLeft = new LEDsData((byte)LEDBrightness, (byte)(LEDcolorRed), (byte)(LEDcolorGreen), (byte)(LEDcolorBlue), _ledSelectorLeft.FillWithBinaryRandomCombination(PercentageOfTurnedOnLeds, coherenceLeftStrip, flickerLeft));
-                    _ledControllerLeft.LEDsDataCommand = ledsDataLeft;
-                    _ledControllerLeft.SendData();
-                    break;*/
+                       /*case 5://vistibular and visual both with delta+ for vistibular.
+                           ledsDataRight = new LEDsData((byte)LEDBrightness, (byte)(LEDcolorRed), (byte)(LEDcolorGreen), (byte)(LEDcolorBlue), _ledSelectorRight.FillWithBinaryRandomCombination(PercentageOfTurnedOnLeds, coherenceRightStrip, flickerRight));
+                           _ledControllerRight.LEDsDataCommand = ledsDataRight;
+                           _ledControllerRight.SendData();
+                           ledsDataLeft = new LEDsData((byte)LEDBrightness, (byte)(LEDcolorRed), (byte)(LEDcolorGreen), (byte)(LEDcolorBlue), _ledSelectorLeft.FillWithBinaryRandomCombination(PercentageOfTurnedOnLeds, coherenceLeftStrip, flickerLeft));
+                           _ledControllerLeft.LEDsDataCommand = ledsDataLeft;
+                           _ledControllerLeft.SendData();
+                           break;*/
 
                 case 10://visual only in the dark.
                 case 12://will replace visual only in the dark.

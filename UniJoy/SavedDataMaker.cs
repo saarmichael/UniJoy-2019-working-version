@@ -177,15 +177,15 @@ namespace UniJoy
 
         /// <summary>
         /// Create a new experiment result file to save in it new experiment data.
-        /// <param name="ratName">The rat name for the current experiment.</param>
+        /// <param name="protocolName">The protocol name for the current experiment.</param>
         /// </summary>
-        public void CreateControlNewFile(string ratName)
+        public void CreateControlNewFile(string protocolName)
         {
             //Creates a directory with the rat name abd the day in it if not exists.
-            CreateNewDirectory(ratName);
+            CreateNewDirectory(protocolName);
 
             //create a new results file for the new experiment.
-            _currentSavedFileStramWriter = File.CreateText(@"C:\results\" + ratName + @"\" + DateTime.Now.ToString("yyyy_MM_dd") + @"\" + DateTime.Now.ToString("yyyy_MM_dd_HH-mm") + " Rat " + ratName + ".txt");
+            _currentSavedFileStramWriter = File.CreateText(@"C:\results\" + protocolName + @"\" + DateTime.Now.ToString("yyyy_MM_dd") + @"\" + DateTime.Now.ToString("yyyy_MM_dd_HH-mm") + ".txt");
         }
 
         /// <summary>
