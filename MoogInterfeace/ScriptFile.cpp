@@ -167,8 +167,9 @@ int ReadLineInCommandStrings(char* buffer, const string& commandsString, int& pl
 {
 	logFile << "ReadingLine\n";
 	logFile.flush();
-
+    // ~(Michael Saar)~ finds the first '\n' in the substring stating at placeInCommandStrings   
 	int numOfCharsToRead = commandsString.find('\n', placeInCommandStrings);
+	// ~(Michael Saar)~ if no '\n' was found ?? is it the end of the script ??
 	if (numOfCharsToRead == -1)
 		return 0;
 

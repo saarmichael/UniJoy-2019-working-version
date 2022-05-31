@@ -23,15 +23,15 @@ namespace UniJoy
     public partial class GuiInterface : Form
     {
 #if DEBUG
-                [DllImport(@"C:\Users\user\source\repos\UniJoy\MoogInterfeace\Debug\MoogInterfeace.dll")]
+                [DllImport(@"C:\Users\user\Desktop\Backup-files\MoogInterfeace.dll")]
                 public static extern void Connect();
-                [DllImport(@"C:\Users\user\source\repos\UniJoy\MoogInterfeace\Debug\MoogInterfeace.dll")]
+                [DllImport(@"C:\Users\user\Desktop\Backup-files\MoogInterfeace.dll")]
                 public static extern void Engage();
-                [DllImport(@"C:\Users\user\source\repos\UniJoy\MoogInterfeace\Debug\MoogInterfeace.dll")]
+                [DllImport(@"C:\Users\user\Desktop\Backup-files\MoogInterfeace.dll")]
                 public static extern void Disengage();
-                [DllImport(@"C:\Users\user\source\repos\UniJoy\MoogInterfeace\Debug\MoogInterfeace.dll")]
+                [DllImport(@"C:\Users\user\Desktop\Backup-files\MoogInterfeace.dll")]
                 public static extern void Disconnect();
-                [DllImport(@"C:\Users\user\source\repos\UniJoy\MoogInterfeace\Debug\MoogInterfeace.dll", CallingConvention = CallingConvention.Cdecl)]
+                [DllImport(@"C:\Users\user\Desktop\Backup-files\MoogInterfeace.dll", CallingConvention = CallingConvention.Cdecl)]
                 public static extern void SendPosition(double surge, double heave, double lateral, double yaw, double roll, double pitch);
 #else
 
@@ -151,7 +151,7 @@ namespace UniJoy
 
             InitializeCheckBoxesDictionary();
 
-            //creating the logger to writting log file information.
+            //creating the logger to writing log file information.
             //Maayan edit
             //log4net.Config.XmlConfigurator.Configure(new FileInfo(Application.StartupPath + @"\Log4Net.config"));
             log4net.Config.XmlConfigurator.Configure();
@@ -168,10 +168,12 @@ namespace UniJoy
                 MessageBox.Show("Cannot connect to the robot - check if robot is conncted in listen mode and also not turned off", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-
+            
+            // ~(Michael Saar)~ set the global-state index to 4 (Initialized)
             Globals._systemState = SystemState.INITIALIZED;
 
             //make the delegate with it's control object and their nickname as pairs of dictionaries.
+            // ~(Michael Saar)~ delegates for the GUI (not the MOOG)
             Tuple<Dictionary<string, Control>, Dictionary<string, Delegate>> delegatsControlsTuple = MakeCtrlDelegateAndFunctionDictionary();
             _cntrlLoop = new ControlLoop(delegatsControlsTuple.Item2, delegatsControlsTuple.Item1, _logger);
 
@@ -1049,7 +1051,7 @@ namespace UniJoy
         }
 
         /// <summary>
-        /// Handler for Engaging the rovot to it's start point.
+        /// Handler for Engaging the robot to it's start point.
         /// </summary>
         /// <param name="sender">Sender.</param>
         /// <param name="e">Args.</param>

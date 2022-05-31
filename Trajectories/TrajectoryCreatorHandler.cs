@@ -69,7 +69,7 @@ namespace Trajectories
         /// Setting new trajectory attribute according to a new user input.
         /// </summary>
         /// <param name="trajectoryCreator">The trajectoryCreator class to make and call in order to deliver the trajectory.</param>
-        /// <param name="variableList">The variables readen from the xlsx protocol file.</param>
+        /// <param name="variableList">The variables read from the xlsx protocol file.</param>
         /// <param name="crossVaryingVals">Final list holds all the current cross varying vals by dictionary of variables with values for each line(trial) for both ratHouseParameters.</param>
         /// <param name="staticVariables">The static variables list in double value presentation.</param>
         /// <param name="frequency">The numbers of samples for each trajectory.</param>

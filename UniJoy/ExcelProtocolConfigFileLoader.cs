@@ -14,7 +14,7 @@ using Params;
 namespace UniJoy
 {
     /// <summary>
-    /// This class is used to read the data from excel protocl file and load it into the GuiInterface.
+    /// This class is used to read the data from excel protocol file and load it into the GuiInterface.
     /// The excel file may contain two sheets of parameters (for the trial) and of functions 
     /// (for the calling functions to analyze response, trajectory creation, etc).
     /// </summary>

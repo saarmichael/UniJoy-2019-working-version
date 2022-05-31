@@ -132,9 +132,9 @@ namespace Trajectories.TrajectoryCreators
         /// <summary>
         /// Generating a vector of sampled gaussian cdf with the given attributes.
         /// </summary>
-        /// <param name="duration">The duraon for the trajectory.</param>
-        /// <param name="sigma">The number of sigmas for the trajectory in the generated gayssian cdf.</param>
-        /// <param name="magnitude">The mfgnitude of the trajectory.</param>
+        /// <param name="duration">The duration for the trajectory.</param>
+        /// <param name="sigma">The number of sigmas for the trajectory in the generated gaussian cdf.</param>
+        /// <param name="magnitude">The magnitude of the trajectory.</param>
         /// <param name="frequency">The number of samples for the gaussian cdf to the trajectory.</param>
         /// <returns>
         /// The sampled gaussian cdf trajector.
@@ -155,7 +155,7 @@ namespace Trajectories.TrajectoryCreators
             }
 
             //remove the first point we need only for decreasing from other points.
-            returnedVector = returnedVector.SubVector(1, frequency);
+            returnedVector = returnedVector.SubVector(1, frequency); // subVector returns ~frequency~ elements from starting ~index~ (which is 1 in this case)
 
             //MatlabPlotFunction(returnedVector);
             return returnedVector;
