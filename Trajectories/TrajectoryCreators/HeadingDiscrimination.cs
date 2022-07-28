@@ -73,17 +73,18 @@ namespace Trajectories.TrajectoryCreators
         private double _adaptationAngle;
 
         /// <summary>
-        /// The delta value for the difference between the heading directions for Stimuluses type 4 and 5 (combined).
+        /// The delta value for the difference between the heading directions for Stimuli type 4 and 5 (combined).
         /// </summary>
         private double _deltaHeading;
 
         /// <summary>
-        /// The variables readen from the xlsx protocol file.
+        /// The variables read from the xlsx protocol file.
         /// </summary>
         private Variables _variablesList;
 
         /// <summary>
-        /// Final list holds all the current cross varying vals by dictionary of variables with values for each line(trial) for both ratHouseParameters.
+        /// ~(Michael) change in comment ratHouseParameters to moogParameters
+        /// Final list holds all the current cross varying values by dictionary of variables with values for each line(trial) for both ratHouseParameters.
         /// </summary>
         private List<Dictionary<string, double>> _crossVaryingVals;
 
@@ -114,10 +115,10 @@ namespace Trajectories.TrajectoryCreators
         }
 
         /// <summary>
-        /// ThreeStepAdapdation Constructor.
+        /// ThreeStepAdaptation Constructor.
         /// </summary>
-        /// <param name="variablesList">The variables list showen in the readen from the excel and changed by the main gui.</param>
-        /// <param name="crossVaryingVals">Final list holds all the current cross varying vals by dictionary of variables with values for each line(trial) for both ratHouseParameters and landscapeHouseParameters.</param>
+        /// <param name="variablesList">The variables list shown in the readen from the excel and changed by the main gui.</param>
+        /// <param name="crossVaryingVals">Final list holds all the current cross varying values by dictionary of variables with values for each line(trial) for both ratHouseParameters and landscapeHouseParameters.</param>
         /// <param name="trajectorySampleNumber">The number of sample points for the trajectory.</param>
         public HeadingDiscrimination(Variables variablesList, List<Dictionary<string, double>> crossVaryingVals, Dictionary<string, double> staticVals, int trajectorySampleNumber)
         {
