@@ -117,7 +117,7 @@ namespace Trajectories.TrajectoryCreators
         /// <summary>
         /// ThreeStepAdaptation Constructor.
         /// </summary>
-        /// <param name="variablesList">The variables list shown in the readen from the excel and changed by the main gui.</param>
+        /// <param name="variablesList">The variables list shown in the read from the excel and changed by the main gui.</param>
         /// <param name="crossVaryingVals">Final list holds all the current cross varying values by dictionary of variables with values for each line(trial) for both ratHouseParameters and landscapeHouseParameters.</param>
         /// <param name="trajectorySampleNumber">The number of sample points for the trajectory.</param>
         public HeadingDiscrimination(Variables variablesList, List<Dictionary<string, double>> crossVaryingVals, Dictionary<string, double> staticVals, int trajectorySampleNumber)
